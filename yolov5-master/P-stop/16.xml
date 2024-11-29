@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16.jpg</filename>
+	<path>E:\aaa111\yolov5-master\P-stop\images\train\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>25</ymin>
+			<xmax>97</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

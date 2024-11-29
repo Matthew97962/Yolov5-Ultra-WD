@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lsqkj</folder>
+	<filename>IMG_20201217_175914_1.jpg</filename>
+	<path>D:\Mx_yolov3\datasets\yolo\lskj\lsqkj\IMG_20201217_175914_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lsqkj</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>56</ymin>
+			<xmax>136</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
