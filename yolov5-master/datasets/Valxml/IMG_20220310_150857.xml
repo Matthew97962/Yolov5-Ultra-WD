@@ -1,0 +1,26 @@
+<annotation>
+	<folder>feiji_out</folder>
+	<filename>IMG_20220310_150857.jpg</filename>
+	<path>D:\Mx_yolov3\datasets\yolo\feiji_out\IMG_20220310_150857.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feiji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>66</ymin>
+			<xmax>164</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

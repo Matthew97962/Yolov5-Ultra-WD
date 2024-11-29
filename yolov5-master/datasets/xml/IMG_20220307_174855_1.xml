@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paoche_out</folder>
+	<filename>IMG_20220307_174855_1.jpg</filename>
+	<path>D:\Mx_yolov3\datasets\yolo\paoche_out\IMG_20220307_174855_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gaoshepao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>60</ymin>
+			<xmax>174</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>
